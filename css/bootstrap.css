@@ -3759,8 +3759,8 @@ textarea.form-control-lg {
 .navbar {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0.5rem;
-  --bs-navbar-color: rgba(0, 0, 0, 0.55);
-  --bs-navbar-hover-color: rgba(0, 0, 0, 0.7);
+  --bs-navbar-color: rgba(0, 0, 0, 0.877);
+  --bs-navbar-hover-color: rgba(253, 196, 7, 0.979);
   --bs-navbar-disabled-color: rgba(0, 0, 0, 0.3);
   --bs-navbar-active-color: rgba(0, 0, 0, 0.9);
   --bs-navbar-brand-padding-y: 0.3125rem;
@@ -6015,6 +6015,7 @@ textarea.form-control-lg {
   padding-top: 1.25rem;
   padding-bottom: 1.25rem;
   color: #fff;
+  text-shadow: 4px 4px 4px #000;
   text-align: center;
 }
 
